@@ -13,7 +13,7 @@ Data science opens doors to this future, where we can unlock the benefits of acc
 
 In a world driven by data, we have the opportunity to live in a future where we can make choices among the truths that lie before us. This allows us to shape a future where our decisions are driven by objective insights rather than subjective biases. By embracing data science, we can enhance our ability to make rational choices and build a future that is based on sound reasoning and accurate predictions.
 
-At the same time, I believe that the human factor, including emotions, plays a crucial role in decision-making. While data science provides us with valuable insights, it is important to remember that some decisions require a human touch. Mistakes are a natural part of the learning process, and they can lead to growth and valuable lessons.
+At the same time, I believe that the human factor, including emotions, plays a crucial role in decision-making. While data science provides us with valuable insights, it is important to remember that some decisions require a human touch. Mistakes are a natural part of the learning process, and they can lead to growth and valuable lessons. And sometimes, there is no right and wrong especially when it comes to human behaviours.
 
 However, in certain situations where the margin for error is slim and the consequences can be life-threatening, such as in healthcare or when operating vehicles like cars or planes, relying on machine-driven decision-making can provide a higher level of reliability and safety. Machine learning algorithms can process vast amounts of data quickly and make precise decisions based on predefined rules and patterns, minimizing the risk of human error.
 
