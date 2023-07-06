@@ -21,7 +21,8 @@ Feel free to explore my GitHub repositories to see how I apply these skills and 
 
 I have embarked on several projects that reflect my passion for learning and practical application. These projects fall into the following categories:
 
-- **Learning Projects**: I undertake various projects to expand my knowledge and skills in data science and AI, constantly challenging myself to deepen my understanding. 📚
+- **Learning Projects**: I undertake various projects to expand my knowledge and skills in data science and AI, constantly challenging myself to deepen my understanding. 
+  - On my GitHub page, you will find repositories with names ending in `-archive` and `-study-archive`. These are my personal experiences and roadmaps I have created to establish connections and enhance my learning journey in each area. Currently, I am focusing on data science-related areas that I believe will contribute to my expertise. As I continue to grow, I will add new areas to explore.📚
 
 - **Action Projects**: I apply my knowledge by working on practical projects that aim to solve real-world problems using data science and AI techniques. These projects allow me to put theory into practice and gain valuable experience. 💪
 
