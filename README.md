@@ -3,7 +3,7 @@
 
 Hello, and welcome to my GitHub profile! I'm a physics student based in Turkey with a strong curiosity for knowledge management. I'm constantly learning and exploring new concepts in my pursuit of becoming a data scientist and AI engineer. 🚀
 
-## My Personal Thoughts
+## My Aim
 
 Data science is an area that deeply fascinates me, as it offers incredible opportunities to harness the power of information and make better decisions. The effective utilization of knowledge enables us to navigate life with greater accuracy and precision, ultimately leading to a more fulfilling existence.
 
@@ -19,7 +19,7 @@ However, in certain situations where the margin for error is slim and the conseq
 
 Finding the right balance between human judgment and data-driven insights is crucial. By combining our intuition, emotions, and experience with the power of data science, we can make more informed and reliable decisions in various aspects of life.
 
-I am deeply passionate about the possibilities that data science offers, and I am committed to expanding my knowledge and skills in this field. Through my projects and exploration of data science concepts, I hope to contribute to the development of a future where we can live more informed, accurate, and rewarding lives.
+I am deeply passionate about the possibilities that data science, physics offers, and even If I didn't mention this, I am deeply passionate about human mind. and I am committed to expanding my knowledge and skills in this 3 fields. Through my projects and exploration of data science concepts, I hope to contribute to the development of a future where we can live more informed, accurate, and rewarding lives. And maybe understand the universe more so that as an whole we can transform something more beautiful!
 
 ## Expertise ✨
 
