@@ -1,1 +1,1 @@
-there is a lot to do
+currently working on aoc, sydney home assistant, solution challenge 
