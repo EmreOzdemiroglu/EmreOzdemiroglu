@@ -1,1 +1,1 @@
-currently working on aoc, home lab - sydney home assistant, google solution challenge (building a productivity/self-care mobile app)
+currently working on 3+1 big/small AI projects
