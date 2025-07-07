@@ -4,7 +4,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=emreozdemiroglu&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/emreozdemiroglu"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="emreozdemiroglu" /></a>
+  <a href="https://buymeacoffee.com/ozdemirogle"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="emreozdemiroglu" /></a>
 </p>
 
 <!-- <p align="center">
